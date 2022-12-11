@@ -14,7 +14,7 @@ public class pokedex extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pokedex);
 
-        ImageView imageView =  (ImageView) findViewById(R.id.imagenesPokemonPokedex);
+        ImageView imageView =   (ImageView) findViewById(R.id.imagenesPokemonPokedex);
 
 
 
