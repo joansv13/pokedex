@@ -23,4 +23,6 @@ public class pokedex extends AppCompatActivity {
                 .placeholder(R.drawable.luna)
                 .into(imageView);
     }
+
+
 }
