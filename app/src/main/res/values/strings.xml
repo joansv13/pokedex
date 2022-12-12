@@ -3,4 +3,7 @@
     <string name="imagen_de_pokemons">imagen de pokemons</string>
     <string name="jugar">Jugar</string>
     <string name="imagenes_de_los_pokemons_con_glide">imagenes de los pokemons con glide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="numPokemon">numeroPokemon</string>
 </resources>

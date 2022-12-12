@@ -10,4 +10,6 @@
     <color name="text"> #9cb78e</color>
     <color name="grey">#fbebbb </color>
     <color name="red">	#FF0000</color>
+    <color name="red2">#7E0000</color>
+    <color name="green">#008000</color>
 </resources>

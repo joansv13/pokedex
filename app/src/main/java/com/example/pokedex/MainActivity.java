@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             //Obrim la pokedes  amb el Intent
 
             Intent intent = new Intent(this, pokedex.class);  //.class és l'arxiu java compilat
+
             startActivity(intent);
         }
 
